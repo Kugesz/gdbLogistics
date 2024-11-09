@@ -1,1 +1,1 @@
-asd
+Discord bot teszt vol 2.
